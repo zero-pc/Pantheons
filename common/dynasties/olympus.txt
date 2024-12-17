@@ -1,0 +1,6 @@
+greek_gods_dynasty = {
+	prefix = "dynnp_of"
+	name = "dynn_Olympus"
+	motto = "dynn_Olympus_motto"
+	culture = "greek"
+}

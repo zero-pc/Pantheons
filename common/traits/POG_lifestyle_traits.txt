@@ -1,0 +1,515 @@
+﻿#@pos_compat_yui = 120
+#@pos_compat_zxc = 90
+#@pos_compat_vbn = 60
+#@pos_compat_ghj = 30
+
+#@pos_compat_iuy = -120
+#@pos_compat_cxz = -90
+#@pos_compat_nbv = -60
+#@pos_compat_jhg = -30
+
+POG_castitasadvanced = {
+	category = lifestyle
+	learning = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_castitasadvanced_desc
+			}
+			desc = trait_POG_castitasadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_castitasadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_castitasadvanced_desc
+			}
+			desc = trait_POG_castitasadvanced_character_desc
+		}
+	}
+}
+
+POG_caritasadvanced = {
+	category = lifestyle
+	diplomacy = 6
+    general_opinion = 5
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_caritasadvanced_desc
+			}
+			desc = trait_POG_caritasadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_caritasadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_caritasadvanced_desc
+			}
+			desc = trait_POG_caritasadvanced_character_desc
+		}
+	}
+}
+
+POG_diligentiaadvanced = {
+	category = lifestyle
+	martial = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_diligentiaadvanced_desc
+			}
+			desc = trait_POG_diligentiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_diligentiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_diligentiaadvanced_desc
+			}
+			desc = trait_POG_diligentiaadvanced_character_desc
+		}
+	}
+}
+
+POG_temperantiaadvanced = {
+	category = lifestyle
+	stewardship = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_temperantiaadvanced_desc
+			}
+			desc = trait_POG_temperantiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_temperantiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_temperantiaadvanced_desc
+			}
+			desc = trait_POG_temperantiaadvanced_character_desc
+		}
+	}
+}
+
+POG_humanitasadvanced = {
+	category = lifestyle
+	intrigue = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_humanitasadvanced_desc
+			}
+			desc = trait_POG_humanitasadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_humanitasadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_humanitasadvanced_desc
+			}
+			desc = trait_POG_humanitasadvanced_character_desc
+		}
+	}
+}
+
+POG_patientiaadvanced = {
+	category = lifestyle
+	prowess = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_patientiaadvanced_desc
+			}
+			desc = trait_POG_patientiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_patientiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_patientiaadvanced_desc
+			}
+			desc = trait_POG_patientiaadvanced_character_desc
+		}
+	}
+}
+
+POG_humilitasadvanced = {
+	category = lifestyle
+	diplomacy = 11
+	martial = 11
+	stewardship = 11
+	intrigue = 11
+	learning = 11
+	prowess = 11
+    general_opinion = 10
+	health = 10
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_humilitasadvanced_desc
+			}
+			desc = trait_POG_humilitasadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_humilitasadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_humilitasadvanced_desc
+			}
+			desc = trait_POG_humilitasadvanced_character_desc
+		}
+	}
+}
+
+POG_luxuriaadvanced = {
+	category = lifestyle
+	learning = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_luxuriaadvanced_desc
+			}
+			desc = trait_POG_luxuriaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_luxuriaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_luxuriaadvanced_desc
+			}
+			desc = trait_POG_luxuriaadvanced_character_desc
+		}
+	}
+}
+
+POG_avaritiaadvanced = {
+	category = lifestyle
+	diplomacy = 6
+    general_opinion = -5
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_avaritiaadvanced_desc
+			}
+			desc = trait_POG_avaritiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_avaritiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_avaritiaadvanced_desc
+			}
+			desc = trait_POG_avaritiaadvanced_character_desc
+		}
+	}
+}
+
+POG_acediaadvanced = {
+	category = lifestyle
+	martial = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_acediaadvanced_desc
+			}
+			desc = trait_POG_acediaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_acediaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_acediaadvanced_desc
+			}
+			desc = trait_POG_acediaadvanced_character_desc
+		}
+	}
+}
+
+POG_gulaadvanced = {
+	category = lifestyle
+	stewardship = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_gulaadvanced_desc
+			}
+			desc = trait_POG_gulaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_gulaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_gulaadvanced_desc
+			}
+			desc = trait_POG_gulaadvanced_character_desc
+		}
+	}
+}
+
+POG_invidiaadvanced = {
+	category = lifestyle
+	intrigue = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_invidiaadvanced_desc
+			}
+			desc = trait_POG_invidiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_invidiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_invidiaadvanced_desc
+			}
+			desc = trait_POG_invidiaadvanced_character_desc
+		}
+	}
+}
+
+POG_iraadvanced = {
+	category = lifestyle
+	prowess = 6
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_iraadvanced_desc
+			}
+			desc = trait_POG_iraadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_iraadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_iraadvanced_desc
+			}
+			desc = trait_POG_iraadvanced_character_desc
+		}
+	}
+}
+
+POG_superbiaadvanced = {
+	category = lifestyle
+	diplomacy = 11
+	martial = 11
+	stewardship = 11
+	intrigue = 11
+	learning = 11
+	prowess = 11
+    general_opinion = -10
+	health = 10
+	shown_in_ruler_designer = no 
+	ruler_designer_cost = 0
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_superbiaadvanced_desc
+			}
+			desc = trait_POG_superbiaadvanced_character_desc
+		}
+	}
+
+	compatibility = {
+		POG_superbiaadvanced = @pos_compat_vbn
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_superbiaadvanced_desc
+			}
+			desc = trait_POG_superbiaadvanced_character_desc
+		}
+	}
+}

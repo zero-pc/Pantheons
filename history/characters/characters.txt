@@ -1,0 +1,722 @@
+
+amphitrite	=	{
+	mother=gaia
+	father=uranus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=amphitrite
+	female=yes
+	age=25
+	random_traits=no
+	name="Amphitrite"
+	diplomacy=7
+	martial=15
+	stewardship=13
+	intrigue=18
+	learning=14
+	prowess=2
+	health=15.25
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=calm
+	trait=cyan_eye_trait
+	trait=cyan_hair_trait
+	trait=education_diplomacy_3
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=pure_blooded
+	trait=shy
+	trait=tits_big_good_1
+	ethnicity=european_med_greek_57
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_byzantine_01
+}
+	
+}}
+
+
+aphrodite	=	{
+	mother=none
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=aphrodite
+	female=yes
+	age=25
+	random_traits=no
+	name="Aphrodite"
+	diplomacy=5
+	martial=6
+	stewardship=8
+	intrigue=8
+	learning=9
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_diplomacy_5
+	trait=fecund
+	trait=gregarious
+	trait=lustful
+	trait=physique_good_1
+	trait=pink_eye_trait
+	trait=pink_hair_trait
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_italian_59
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_western_07
+}
+	
+}}
+
+
+apollo	=	{
+	mother=leto
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=apollo
+	age=25
+	random_traits=no
+	name="Apollo"
+	diplomacy=5
+	martial=7
+	stewardship=9
+	intrigue=9
+	learning=9
+	prowess=18
+	health=15.5
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_1
+	trait=education_diplomacy_5
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	trait=zealous
+	ethnicity=european_med_italian_51
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_fp2_iberian_muslim_02
+}
+	
+}}
+
+
+ares	=	{
+	mother=hera
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ares
+	age=25
+	random_traits=no
+	name="Ares"
+	diplomacy=5
+	martial=5
+	stewardship=7
+	intrigue=18
+	learning=11
+	prowess=25
+	health=16.5
+	trait=POG_pure_deity
+	trait=athletic
+	trait=beauty_good_1
+	trait=brave
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_martial_5
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=red_hair_trait
+	trait=strong
+	trait=wrathful
+	ethnicity=european_med_italian_61
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_fp2_iberian_muslim_02
+}
+	
+}}
+
+
+artemis	=	{
+	mother=leto
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=artemis
+	female=yes
+	age=25
+	random_traits=no
+	name="Artemis"
+	diplomacy=6
+	martial=8
+	stewardship=8
+	intrigue=10
+	learning=11
+	prowess=8
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=brave
+	trait=diligent
+	trait=education_martial_4
+	trait=fecund
+	trait=generous
+	trait=green_eye_trait
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_hair_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_1
+	ethnicity=european_med_italian_51
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_christian_03
+}
+	
+}}
+
+
+athena	=	{
+	mother=metis
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=athena
+	female=yes
+	age=25
+	random_traits=no
+	name="Athena"
+	diplomacy=15
+	martial=18
+	stewardship=15
+	intrigue=19
+	learning=6
+	prowess=27
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=brave
+	trait=education_learning_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=just
+	trait=patient
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=yellow_hair_trait
+	ethnicity=european_med_italian_59
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_custom_05
+	custom_beards=female_empty
+}
+	
+}}
+
+
+cronus	=	{
+	mother=gaia
+	father=uranus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=cronus
+	age=25
+	random_traits=no
+	name="Cronus"
+	diplomacy=12
+	martial=12
+	stewardship=12
+	intrigue=12
+	learning=29
+	prowess=21
+	health=5.5
+	trait=beauty_good_1
+	trait=callous
+	trait=calm
+	trait=education_learning_4
+	trait=intellect_good_1
+	trait=patient
+	trait=physique_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=european_med_greek_57
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_06
+	custom_hair=male_hair_fp2_iberian_muslim_02
+}
+	
+}}
+
+
+demeter	=	{
+	mother=rhea
+	father=cronus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=demeter
+	female=yes
+	age=25
+	random_traits=no
+	name="Demeter"
+	diplomacy=9
+	martial=9
+	stewardship=7
+	intrigue=18
+	learning=11
+	prowess=3
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=education_stewardship_5
+	trait=fecund
+	trait=ginger_hair_trait
+	trait=honest
+	trait=intellect_good_1
+	trait=just
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_1
+	trait=yellow_eye_trait
+	ethnicity=european_med_italian_49
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_christian_02
+}
+	
+}}
+
+
+gaia	=	{
+	mother=none
+	father=none
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=gaia
+	female=yes
+	age=25
+	random_traits=no
+	name="Gaia"
+	diplomacy=17
+	martial=24
+	stewardship=15
+	intrigue=15
+	learning=13
+	prowess=32
+	health=16.75
+	trait=POG_elder_pure_deity
+	trait=beauty_good_3
+	trait=black_skin_trait
+	trait=brave
+	trait=education_stewardship_5
+	trait=generous
+	trait=patient
+	trait=physique_good_3
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=witch
+	trait=yellow_eye_trait
+	ethnicity=east_african_ethiopian_42
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_sub_saharan_02
+}
+	
+}}
+
+
+hades	=	{
+	mother=rhea
+	father=cronus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hades
+	age=25
+	random_traits=no
+	name="Hades"
+	diplomacy=13
+	martial=19
+	stewardship=16
+	intrigue=11
+	learning=10
+	prowess=18
+	health=16
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_3
+	trait=black_hair_trait
+	trait=education_learning_5
+	trait=intellect_good_1
+	trait=just
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=zealous
+	ethnicity=european_med_greek_3
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_03
+	custom_hair=male_hair_fp2_iberian_muslim_01
+}
+	
+}}
+
+
+hephaestus	=	{
+	mother=hera
+	father=none
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hephaestus
+	age=25
+	random_traits=no
+	name="Hephaestus"
+	diplomacy=9
+	martial=16
+	stewardship=15
+	intrigue=19
+	learning=7
+	prowess=24
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brown_hair_trait
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_stewardship_5
+	trait=forgiving
+	trait=intellect_good_1
+	trait=one_legged
+	trait=orange_skin_trait
+	trait=physique_good_2
+	trait=trusting
+	trait=white_eye_trait
+	ethnicity=european_med_greek_60
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_09
+	custom_hair=male_hair_fp2_iberian_christian_01
+}
+	
+}}
+
+
+hera	=	{
+	mother=rhea
+	father=cronus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hera
+	female=yes
+	age=25
+	random_traits=no
+	name="Hera"
+	diplomacy=17
+	martial=5
+	stewardship=19
+	intrigue=7
+	learning=16
+	prowess=1
+	health=15.75
+	trait=POG_pure_deity
+	trait=arrogant
+	trait=beauty_good_1
+	trait=chaste
+	trait=cyan_eye_trait
+	trait=deceitful
+	trait=education_intrigue_4
+	trait=green_hair_trait
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=tits_big_good_1
+	ethnicity=european_med_greek_7
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_custom_06
+}
+	
+}}
+
+
+hermes	=	{
+	mother=maia
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hermes
+	age=25
+	random_traits=no
+	name="Hermes"
+	diplomacy=11
+	martial=24
+	stewardship=7
+	intrigue=10
+	learning=6
+	prowess=13
+	health=16.25
+	trait=POG_pure_deity
+	trait=arrogant
+	trait=beauty_good_2
+	trait=cyan_eye_trait
+	trait=diligent
+	trait=eccentric
+	trait=education_diplomacy_5
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_1
+	trait=white_hair_trait
+	ethnicity=european_med_italian_49
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_fp1_03
+}
+	
+}}
+
+
+persephone	=	{
+	mother=demeter
+	father=zeus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=persephone
+	female=yes
+	age=25
+	random_traits=no
+	name="Persephone"
+	diplomacy=10
+	martial=7
+	stewardship=8
+	intrigue=8
+	learning=11
+	prowess=14
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=chaste
+	trait=compassionate
+	trait=education_stewardship_3
+	trait=fecund
+	trait=green_eye_trait
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_hair_trait
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_1
+	ethnicity=european_med_greek_3
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_byzantine_02
+}
+	
+}}
+
+
+poseidon	=	{
+	mother=rhea
+	father=cronus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=poseidon
+	age=25
+	random_traits=no
+	name="Poseidon"
+	diplomacy=13
+	martial=8
+	stewardship=12
+	intrigue=12
+	learning=13
+	prowess=16
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=blue_eye_trait
+	trait=blue_hair_trait
+	trait=education_martial_3
+	trait=intellect_good_1
+	trait=lustful
+	trait=patient
+	trait=physique_good_2
+	trait=wrathful
+	ethnicity=european_med_greek_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_03
+	custom_hair=male_hair_fp1_05
+}
+	
+}}
+
+
+uranus	=	{
+	mother=none
+	father=none
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=uranus
+	age=25
+	random_traits=no
+	name="Uranus"
+	diplomacy=10
+	martial=11
+	stewardship=19
+	intrigue=8
+	learning=12
+	prowess=15
+	health=16
+	trait=POG_pure_deity
+	trait=arbitrary
+	trait=beauty_good_1
+	trait=cyan_eye_trait
+	trait=cyan_hair_trait
+	trait=education_diplomacy_5
+	trait=fickle
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=strong
+	trait=wrathful
+	ethnicity=european_med_italian_67
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_western_06
+}
+	
+}}
+
+
+zeus	=	{
+	mother=rhea
+	father=cronus
+	dynasty=greek_gods_dynasty
+	dynasty_house=greek_gods_dynasty
+	culture="greek"
+	religion="hellenic_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=zeus
+	age=25
+	random_traits=no
+	name="Zeus"
+	diplomacy=28
+	martial=17
+	stewardship=16
+	intrigue=15
+	learning=20
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=dick_big_good_1
+	trait=education_martial_5
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=vengeful
+	trait=white_eye_trait
+	trait=white_hair_trait
+	ethnicity=european_med_greek_34
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_muslim_01
+	custom_hair=male_hair_mena_02
+}
+	
+}}
+

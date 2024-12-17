@@ -1,0 +1,523 @@
+﻿@pos_compat_yui = 120
+@pos_compat_zxc = 90
+@pos_compat_vbn = 60
+@pos_compat_ghj = 30
+
+@pos_compat_iuy = -120
+@pos_compat_cxz = -90
+@pos_compat_nbv = -60
+@pos_compat_jhg = -30
+
+POG_pure_deity = {
+	prowess_no_portrait = 6
+	health = 10
+	immortal = yes
+	fertility = -1.5
+	monthly_lifestyle_xp_gain_mult = 0.2
+	no_prowess_loss_from_age = yes
+
+	opposites = {
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_yui
+		POG_pure_deity = @pos_compat_zxc
+		POG_young_pure_deity = @pos_compat_vbn
+		POG_disciple_pure = @pos_compat_ghj
+		POG_elder_fallen_deity = @pos_compat_iuy
+		POG_fallen_deity = @pos_compat_cxz
+		POG_young_fallen_deity = @pos_compat_nbv
+		POG_disciple_fallen = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_pure_goddess
+			}
+			desc = trait_POG_pure_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_pure_neutral_desc
+			}
+			desc = trait_POG_pure_deity_desc
+		}
+	}
+}
+
+POG_fallen_deity = {
+	prowess_no_portrait = 6
+	health = 10
+	immortal = yes
+	fertility = -1.5
+	monthly_lifestyle_xp_gain_mult = 0.2
+	no_prowess_loss_from_age = yes
+
+	opposites = {
+		POG_pure_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_fallen_deity = @pos_compat_yui
+		POG_fallen_deity = @pos_compat_zxc
+		POG_young_fallen_deity = @pos_compat_vbn
+		POG_disciple_fallen = @pos_compat_ghj
+		POG_elder_pure_deity = @pos_compat_iuy
+		POG_pure_deity = @pos_compat_cxz
+		POG_young_pure_deity = @pos_compat_nbv
+		POG_disciple_pure = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_fallen_goddess
+			}
+			desc = trait_POG_fallen_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_fallen_neutral_desc
+			}
+			desc = trait_POG_fallen_deity_desc
+		}
+	}
+}
+
+POG_young_pure_deity = {
+	prowess_no_portrait = 4
+	health = 10
+	
+	# Prerequisites
+	maximum_age = 18
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_yui
+		POG_pure_deity = @pos_compat_zxc
+		POG_young_pure_deity = @pos_compat_vbn
+		POG_disciple_pure = @pos_compat_ghj
+		POG_elder_fallen_deity = @pos_compat_iuy
+		POG_fallen_deity = @pos_compat_cxz
+		POG_young_fallen_deity = @pos_compat_nbv
+		POG_disciple_fallen = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_young_pure_goddess
+			}
+			desc = trait_POG_young_pure_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_young_pure_neutral_desc
+			}
+			desc = trait_POG_young_pure_deity_desc
+		}
+	}
+}
+
+POG_young_fallen_deity = {
+	prowess_no_portrait = 4
+	health = 10
+	
+	# Prerequisites
+	maximum_age = 18
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_fallen_deity = @pos_compat_yui
+		POG_fallen_deity = @pos_compat_zxc
+		POG_young_fallen_deity = @pos_compat_vbn
+		POG_disciple_fallen = @pos_compat_ghj
+		POG_elder_pure_deity = @pos_compat_iuy
+		POG_pure_deity = @pos_compat_cxz
+		POG_young_pure_deity = @pos_compat_nbv
+		POG_disciple_pure = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_young_fallen_goddess
+			}
+			desc = trait_POG_young_fallen_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_young_fallen_neutral_desc
+			}
+			desc = trait_POG_young_fallen_deity_desc
+		}
+	}
+}
+
+POG_elder_pure_deity = {
+	prowess_no_portrait = 8
+	health = 10
+	immortal = yes
+	fertility = -1.5
+	monthly_lifestyle_xp_gain_mult = 0.3
+	no_prowess_loss_from_age = yes
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_yui
+		POG_pure_deity = @pos_compat_zxc
+		POG_young_pure_deity = @pos_compat_vbn
+		POG_disciple_pure = @pos_compat_ghj
+		POG_elder_fallen_deity = @pos_compat_iuy
+		POG_fallen_deity = @pos_compat_cxz
+		POG_young_fallen_deity = @pos_compat_nbv
+		POG_disciple_fallen = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_elder_pure_goddess
+			}
+			desc = trait_POG_elder_pure_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_elder_pure_neutral_desc
+			}
+			desc = trait_POG_elder_pure_deity_desc
+		}
+	}
+}
+
+POG_elder_fallen_deity = {
+	prowess_no_portrait = 8
+	health = 10
+	immortal = yes
+	fertility = -1.5
+	monthly_lifestyle_xp_gain_mult = 0.3
+	no_prowess_loss_from_age = yes
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+
+	compatibility = {
+		POG_elder_fallen_deity = @pos_compat_yui
+		POG_fallen_deity = @pos_compat_zxc
+		POG_young_fallen_deity = @pos_compat_vbn
+		POG_disciple_fallen = @pos_compat_ghj
+		POG_elder_pure_deity = @pos_compat_iuy
+		POG_pure_deity = @pos_compat_cxz
+		POG_young_pure_deity = @pos_compat_nbv
+		POG_disciple_pure = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_ghj
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_jhg
+		POG_champion_of_mortality = @pos_compat_nbv
+	}
+
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_elder_fallen_goddess
+			}
+			desc = trait_POG_elder_fallen_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_elder_fallen_neutral_desc
+			}
+			desc = trait_POG_elder_fallen_deity_desc
+		}
+	}
+}
+
+POG_disciple_pure = {
+	health = 1
+	life_expectancy = 20
+	years_of_fertility = 10
+	monthly_lifestyle_xp_gain_mult = 0.05
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_fallen
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_yui
+		POG_pure_deity = @pos_compat_zxc
+		POG_young_pure_deity = @pos_compat_vbn
+		POG_disciple_pure = @pos_compat_ghj
+		POG_elder_fallen_deity = @pos_compat_iuy
+		POG_fallen_deity = @pos_compat_cxz
+		POG_young_fallen_deity = @pos_compat_nbv
+		POG_disciple_fallen = @pos_compat_jhg
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_disciple_pure_neutral_desc
+			}
+			desc = trait_POG_disciple_pure_desc
+		}
+	}
+}
+
+POG_disciple_fallen = {
+	health = 1
+	life_expectancy = 30
+	years_of_fertility = 15
+	monthly_lifestyle_xp_gain_mult = 0.05
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_disciple_pure
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_fallen_deity = @pos_compat_yui
+		POG_fallen_deity = @pos_compat_zxc
+		POG_young_fallen_deity = @pos_compat_vbn
+		POG_disciple_fallen = @pos_compat_ghj
+		POG_elder_pure_deity = @pos_compat_iuy
+		POG_pure_deity = @pos_compat_cxz
+		POG_young_pure_deity = @pos_compat_nbv
+		POG_disciple_pure = @pos_compat_jhg
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_disciple_fallen_neutral_desc
+			}
+			desc = trait_POG_disciple_fallen_desc
+		}
+	}
+}

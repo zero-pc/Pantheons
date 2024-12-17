@@ -1,0 +1,994 @@
+﻿#@pos_compat_yui = 120
+#@pos_compat_zxc = 90
+#@pos_compat_vbn = 60
+#@pos_compat_ghj = 30
+
+#@pos_compat_iuy = -120
+#@pos_compat_cxz = -90
+#@pos_compat_nbv = -60
+#@pos_compat_jhg = -30
+
+#Demigod Tier 1 (Base)
+POG_demi_deity = {
+	prowess_no_portrait = 4
+	health = 2
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	life_expectancy = 60
+	years_of_fertility = 30
+	monthly_lifestyle_xp_gain_mult = 0.1
+	
+	tracks = {
+		divine = {
+			20 = {
+				prowess_no_portrait = 1
+				health = 1
+				learning = 3
+				monthly_lifestyle_xp_gain_mult = 0.05
+				life_expectancy = 30
+				years_of_fertility = 15
+			}
+			40 = {
+				prowess_no_portrait = 1
+				stewardship = 3
+				life_expectancy = 30
+				years_of_fertility = 15
+			}
+			60 = {
+				prowess_no_portrait = 1
+				diplomacy = 3
+				life_expectancy = 30
+				years_of_fertility = 15
+			}
+			80 = {
+				prowess_no_portrait = 1
+				health = 1
+				intrigue = 3
+				monthly_lifestyle_xp_gain_mult = 0.05
+				life_expectancy = 30
+				years_of_fertility = 15
+			}
+		}
+		champion_of_mortality = {
+			20 = {
+				prowess_no_portrait = 2
+				health = 1
+				learning = 6
+				monthly_lifestyle_xp_gain_mult = 0.05
+			}
+			40 = {
+				prowess_no_portrait = 2
+				health = 1
+				stewardship = 6
+				monthly_lifestyle_xp_gain_mult = 0.05
+			}
+			60 = {
+				prowess_no_portrait = 2
+				health = 1
+				diplomacy = 6
+				monthly_lifestyle_xp_gain_mult = 0.05
+			}
+			80 = {
+				prowess_no_portrait = 2
+				health = 1
+				intrigue = 6
+				monthly_lifestyle_xp_gain_mult = 0.05
+			}
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_ghj
+		POG_pure_deity = @pos_compat_ghj
+		POG_young_pure_deity = @pos_compat_ghj
+		POG_elder_fallen_deity = @pos_compat_ghj
+		POG_fallen_deity = @pos_compat_ghj
+		POG_young_fallen_deity = @pos_compat_ghj
+		POG_demi_deity = @pos_compat_vbn
+		POG_ascending_demi_deity = @pos_compat_vbn
+		POG_minor_deity = @pos_compat_vbn
+		POG_mortal_demi_deity = @pos_compat_vbn
+		POG_champion_of_mortality = @pos_compat_vbn
+		POG_blood_of_gods = @pos_compat_ghj
+		POG_aspiring_hero = @pos_compat_ghj
+		POG_mythic_hero = @pos_compat_vbn
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_demi_goddess
+			}
+			desc = trait_POG_demi_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_demi_deity_neutral_desc
+			}
+			desc = trait_POG_demi_deity_desc
+		}
+	}
+}
+
+#Demigod Tier 2 (Divine Ascension)
+POG_ascending_demi_deity = {
+	prowess_no_portrait = 9
+	health = 5
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	life_expectancy = 180
+	years_of_fertility = 90
+	monthly_lifestyle_xp_gain_mult = 0.2
+	learning = 3
+	stewardship = 3
+	diplomacy = 3
+	intrigue = 3
+	martial = 3
+	shown_in_ruler_designer = no
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 1
+			learning = 3
+			monthly_lifestyle_xp_gain_mult = 0.05
+			life_expectancy = 30
+			years_of_fertility = 15
+		}
+		40 = {
+			prowess_no_portrait = 1
+			stewardship = 3
+			life_expectancy = 30
+			years_of_fertility = 15
+		}
+		60 = {
+			prowess_no_portrait = 1
+			diplomacy = 3
+			life_expectancy = 30
+			years_of_fertility = 15
+		}
+		80 = {
+			prowess_no_portrait = 1
+			intrigue = 3
+			monthly_lifestyle_xp_gain_mult = 0.05
+			life_expectancy = 30
+			years_of_fertility = 15
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_vbn
+		POG_pure_deity = @pos_compat_vbn
+		POG_young_pure_deity = @pos_compat_vbn
+		POG_elder_fallen_deity = @pos_compat_vbn
+		POG_fallen_deity = @pos_compat_vbn
+		POG_young_fallen_deity = @pos_compat_vbn
+		POG_demi_deity = @pos_compat_vbn
+		POG_ascending_demi_deity = @pos_compat_zxc
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_nbv
+		POG_champion_of_mortality = @pos_compat_nbv
+		POG_blood_of_gods = @pos_compat_ghj
+		POG_aspiring_hero = @pos_compat_ghj
+		POG_mythic_hero = @pos_compat_vbn
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_ascending_demi_goddess
+			}
+			desc = trait_POG_ascending_demi_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_ascending_demi_deity_neutral_desc
+			}
+			desc = trait_POG_ascending_demi_deity_desc
+		}
+	}
+}
+
+#Demigod Tier 3 (Divine Ascension)
+POG_minor_deity = {
+	immortal = yes
+	prowess_no_portrait = 14
+	health = 10
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	monthly_lifestyle_xp_gain_mult = 0.3
+	learning = 6
+	stewardship = 6
+	diplomacy = 6
+	intrigue = 6
+	martial = 6
+	shown_in_ruler_designer = no
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_zxc
+		POG_pure_deity = @pos_compat_zxc
+		POG_young_pure_deity = @pos_compat_zxc
+		POG_elder_fallen_deity = @pos_compat_zxc
+		POG_fallen_deity = @pos_compat_zxc
+		POG_young_fallen_deity = @pos_compat_zxc
+		POG_demi_deity = @pos_compat_vbn
+		POG_ascending_demi_deity = @pos_compat_zxc
+		POG_minor_deity = @pos_compat_zxc
+		POG_mortal_demi_deity = @pos_compat_cxz
+		POG_champion_of_mortality = @pos_compat_cxz
+		POG_blood_of_gods = @pos_compat_ghj
+		POG_aspiring_hero = @pos_compat_ghj
+		POG_mythic_hero = @pos_compat_vbn
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_minor_goddess
+			}
+			desc = trait_POG_minor_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_minor_deity_neutral_desc
+			}
+			desc = trait_POG_minor_deity_desc
+		}
+	}
+}
+
+#Demigod Tier 2 (Champion of Mortality)
+POG_mortal_demi_deity = {
+	prowess_no_portrait = 14
+	health = 6
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	life_expectancy = 60
+	years_of_fertility = 30
+	monthly_lifestyle_xp_gain_mult = 0.3
+	learning = 6
+	stewardship = 6
+	diplomacy = 6
+	intrigue = 6
+	martial = 6
+	shown_in_ruler_designer = no
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 2
+			health = 1
+			learning = 6
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+		40 = {
+			prowess_no_portrait = 2
+			health = 1
+			stewardship = 6
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+		60 = {
+			prowess_no_portrait = 2
+			health = 1
+			diplomacy = 6
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+		80 = {
+			prowess_no_portrait = 2
+			health = 1
+			intrigue = 6
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_jhg
+		POG_pure_deity = @pos_compat_jhg
+		POG_young_pure_deity = @pos_compat_jhg
+		POG_elder_fallen_deity = @pos_compat_jhg
+		POG_fallen_deity = @pos_compat_jhg
+		POG_young_fallen_deity = @pos_compat_jhg
+		POG_demi_deity = @pos_compat_vbn
+		POG_ascending_demi_deity = @pos_compat_cxz
+		POG_minor_deity = @pos_compat_cxz
+		POG_mortal_demi_deity = @pos_compat_zxc
+		POG_champion_of_mortality = @pos_compat_zxc
+		POG_blood_of_gods = @pos_compat_ghj
+		POG_aspiring_hero = @pos_compat_ghj
+		POG_mythic_hero = @pos_compat_vbn
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_mortal_demi_goddess
+			}
+			desc = trait_POG_mortal_demi_god
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_mortal_demi_deity_neutral_desc
+			}
+			desc = trait_POG_mortal_demi_deity_desc
+		}
+	}
+}
+
+#Demigod Tier 3 (Champion of Mortality)
+POG_champion_of_mortality = {
+	prowess_no_portrait = 24
+	health = 10
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	life_expectancy = 60
+	years_of_fertility = 30
+	monthly_lifestyle_xp_gain_mult = 0.5
+	learning = 12
+	stewardship = 12
+	diplomacy = 12
+	martial = 12
+	intrigue = 12
+	shown_in_ruler_designer = no
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_disciple_fallen
+		POG_disciple_pure
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+	}
+	
+	compatibility = {
+		POG_elder_pure_deity = @pos_compat_nbv
+		POG_pure_deity = @pos_compat_nbv
+		POG_young_pure_deity = @pos_compat_nbv
+		POG_elder_fallen_deity = @pos_compat_nbv
+		POG_fallen_deity = @pos_compat_nbv
+		POG_young_fallen_deity = @pos_compat_nbv
+		POG_demi_deity = @pos_compat_vbn
+		POG_ascending_demi_deity = @pos_compat_cxz
+		POG_minor_deity = @pos_compat_cxz
+		POG_mortal_demi_deity = @pos_compat_zxc
+		POG_champion_of_mortality = @pos_compat_zxc
+		POG_blood_of_gods = @pos_compat_ghj
+		POG_aspiring_hero = @pos_compat_ghj
+		POG_mythic_hero = @pos_compat_vbn
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_championess_of_mortality
+			}
+			desc = trait_POG_champion_of_mortality
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_champion_of_mortality_neutral_desc
+			}
+			desc = trait_POG_champion_of_mortality_desc
+		}
+	}
+}
+
+#Blood of Gods
+POG_blood_of_gods = {
+	prowess_no_portrait = 1
+	life_expectancy = 30
+	years_of_fertility = 15
+	monthly_lifestyle_xp_gain_mult = 0.05
+	
+	genetic = yes
+	good = yes
+	physical = yes
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 1
+			health = 1
+			learning = 6
+			knight_effectiveness_mult = 0.05
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+		40 = {
+			prowess_no_portrait = 1
+			stewardship = 6
+			knight_effectiveness_mult = 0.05
+			knight_limit = 1
+		}
+		60 = {
+			prowess_no_portrait = 1
+			diplomacy = 6
+			general_opinion = 10
+			knight_effectiveness_mult = 0.05
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+		80 = {
+			prowess_no_portrait = 1
+			health = 1
+			intrigue = 6
+			knight_effectiveness_mult = 0.05
+			knight_limit = 1
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_mortal_demi_deity = @pos_compat_ghj
+		POG_champion_of_mortality = @pos_compat_ghj
+		POG_blood_of_gods = @pos_compat_vbn
+		POG_aspiring_hero = @pos_compat_zxc
+		POG_mythic_hero = @pos_compat_yui
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_blood_of_gods_neutral_desc
+			}
+			desc = trait_POG_blood_of_gods_desc
+		}
+	}
+}
+
+#Hero Tier 1
+POG_aspiring_hero = {
+	prowess_no_portrait = 6
+	health = 2
+	life_expectancy = 30
+	years_of_fertility = 15
+	monthly_lifestyle_xp_gain_mult = 0.2
+	knight_effectiveness_mult = 0.2
+	knight_limit = 2
+	learning = 6
+	stewardship = 6
+	diplomacy = 6
+	intrigue = 6
+	martial = 6
+	general_opinion = 10
+	shown_in_ruler_designer = no
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 1
+			health = 1
+			learning = 6
+			general_opinion = 10
+			monthly_lifestyle_xp_gain_mult = 0.05
+			knight_effectiveness_mult = 0.05
+		}
+		40 = {
+			prowess_no_portrait = 1
+			stewardship = 6
+			knight_effectiveness_mult = 0.05
+			knight_limit = 1
+		}
+		60 = {
+			prowess_no_portrait = 1
+			diplomacy = 6
+			monthly_lifestyle_xp_gain_mult = 0.05
+			knight_effectiveness_mult = 0.05
+		}
+		80 = {
+			prowess_no_portrait = 1
+			health = 1
+			martial = 6
+			general_opinion = 10
+			knight_effectiveness_mult = 0.05
+			knight_limit = 1
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_mortal_demi_deity = @pos_compat_ghj
+		POG_champion_of_mortality = @pos_compat_ghj
+		POG_blood_of_gods = @pos_compat_vbn
+		POG_aspiring_hero = @pos_compat_zxc
+		POG_mythic_hero = @pos_compat_yui
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_aspiring_heroine
+			}
+			desc = trait_POG_aspiring_hero
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_aspiring_hero_neutral_desc
+			}
+			desc = trait_POG_aspiring_hero_desc
+		}
+	}
+}
+
+#Hero Tier 2
+POG_mythic_hero = {
+	prowess_no_portrait = 12
+	health = 5
+	life_expectancy = 30
+	years_of_fertility = 15
+	monthly_lifestyle_xp_gain_mult = 0.3
+	knight_effectiveness_mult = 0.4
+	knight_limit = 4
+	learning = 12
+	stewardship = 12
+	diplomacy = 12
+	intrigue = 12
+	martial = 12
+	general_opinion = 30
+	shown_in_ruler_designer = no
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_undying
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_mortal_demi_deity = @pos_compat_ghj
+		POG_champion_of_mortality = @pos_compat_ghj
+		POG_blood_of_gods = @pos_compat_vbn
+		POG_aspiring_hero = @pos_compat_zxc
+		POG_mythic_hero = @pos_compat_yui
+	}
+	
+	name = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					exists = this
+					is_female = yes
+				}
+				desc = trait_POG_mythic_heroine
+			}
+			desc = trait_POG_mythic_hero
+		}
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_mythic_hero_neutral_desc
+			}
+			desc = trait_POG_mythic_hero_desc
+		}
+	}
+}
+
+#Undying Tier 1
+POG_undying = {
+	prowess_no_portrait = 2
+	immortal = yes
+	monthly_lifestyle_xp_gain_mult = 0.05
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	
+	# Prerequisites
+	minimum_age = 18
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 2
+			health = 1
+			learning = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		40 = {
+			prowess_no_portrait = 2
+			stewardship = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		60 = {
+			prowess_no_portrait = 2
+			diplomacy = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		80 = {
+			prowess_no_portrait = 2
+			health = 1
+			intrigue = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+			monthly_lifestyle_xp_gain_mult = 0.05
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_proficient_undying
+		POG_ascended_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_undying = @pos_compat_nbv
+		POG_proficient_undying = @pos_compat_cxz
+		POG_ascended_undying = @pos_compat_iuy
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_undying_neutral_desc
+			}
+			desc = trait_POG_undying_desc
+		}
+	}
+}
+
+#Undying Tier 2
+POG_proficient_undying = {
+	prowess_no_portrait = 12
+	immortal = yes
+	health = 2
+	monthly_lifestyle_xp_gain_mult = 0.1
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	learning = 3
+	stewardship = 3
+	diplomacy = 3
+	intrigue = 3
+	martial = 3
+	dread_baseline_add = 10
+	enemy_hostile_scheme_success_chance_add = -10
+	shown_in_ruler_designer = no
+	
+	# Prerequisites
+	minimum_age = 18
+	
+	track = {
+		20 = {
+			prowess_no_portrait = 2
+			health = 1
+			learning = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		40 = {
+			prowess_no_portrait = 2
+			stewardship = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		60 = {
+			prowess_no_portrait = 2
+			diplomacy = 3
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+		80 = {
+			prowess_no_portrait = 2
+			health = 1
+			intrigue = 3
+			monthly_lifestyle_xp_gain_mult = 0.05
+			dread_baseline_add = 2
+			enemy_hostile_scheme_success_chance_add = -2
+		}
+	}
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_ascended_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_undying = @pos_compat_nbv
+		POG_proficient_undying = @pos_compat_cxz
+		POG_ascended_undying = @pos_compat_iuy
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_proficient_undying_neutral_desc
+			}
+			desc = trait_POG_proficient_undying_desc
+		}
+	}
+}
+
+#Undying Tier 3
+POG_ascended_undying = {
+	prowess_no_portrait = 20
+	immortal = yes
+	health = 5
+	monthly_lifestyle_xp_gain_mult = 0.2
+	no_prowess_loss_from_age = yes
+	fertility = -0.5
+	learning = 6
+	stewardship = 6
+	diplomacy = 6
+	intrigue = 6
+	martial = 6
+	dread_baseline_add = 20
+	enemy_hostile_scheme_success_chance_add = -20
+	shown_in_ruler_designer = no
+	
+	# Prerequisites
+	minimum_age = 18
+
+	opposites = {
+		POG_pure_deity
+		POG_fallen_deity
+		POG_young_fallen_deity
+		POG_young_pure_deity
+		POG_elder_fallen_deity
+		POG_elder_pure_deity
+		POG_blood_of_gods
+		POG_aspiring_hero
+		POG_mythic_hero
+		POG_undying
+		POG_proficient_undying
+		POG_demi_deity
+		POG_ascending_demi_deity
+		POG_minor_deity
+		POG_mortal_demi_deity
+		POG_champion_of_mortality
+	}
+	
+	compatibility = {
+		POG_undying = @pos_compat_nbv
+		POG_proficient_undying = @pos_compat_cxz
+		POG_ascended_undying = @pos_compat_iuy
+	}
+	
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_POG_ascended_undying_neutral_desc
+			}
+			desc = trait_POG_ascended_undying_desc
+		}
+	}
+}

@@ -1,0 +1,6 @@
+build/characters/*
+build/dna_data/*
+!build/characters/.gitkeep
+!build/dna_data/.gitkeep
+scripts/*
+docs/*
