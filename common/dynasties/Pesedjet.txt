@@ -1,0 +1,6 @@
+egypt_gods_dynasty = {
+	prefix = "dynnp_of"
+	name = "dynn_Pesedjet"
+	motto = "dynn_Pesedjet_motto"
+	culture = "egyptian"
+}
