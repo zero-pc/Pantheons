@@ -1,0 +1,1213 @@
+
+aditi	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=aditi
+	female=yes
+	age=25
+	random_traits=no
+	name="Aditi"
+	diplomacy=12
+	martial=11
+	stewardship=8
+	intrigue=24
+	learning=13
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=calm
+	trait=compassionate
+	trait=cyan_skin_trait
+	trait=diligent
+	trait=education_diplomacy_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_20
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_custom_01
+}
+	
+}}
+
+
+agni	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=agni
+	age=25
+	random_traits=no
+	name="Agni"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=education_martial_4
+	trait=intellect_good_1
+	trait=orange_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_skin_trait
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	trait=zealous
+	ethnicity=indian_dravidian_2
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_03
+}
+	
+}}
+
+
+ashvins	=	{
+	mother=saranyu
+	father=surya
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ashvins
+	age=25
+	random_traits=no
+	name="Ashvins"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_1
+	trait=calm
+	trait=diligent
+	trait=eccentric
+	trait=education_learning_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_14
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_03
+}
+	
+}}
+
+
+brahma	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=brahma
+	age=25
+	random_traits=no
+	name="Brahma"
+	diplomacy=10
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=18
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_stewardship_5
+	trait=generous
+	trait=intellect_good_1
+	trait=orange_skin_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=temperate
+	trait=white_eye_trait
+	ethnicity=indian_dravidian_20
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_muslim_02
+	custom_hair=male_hair_fp2_iberian_muslim_02
+}
+	
+}}
+
+
+brahman	=	{
+	mother=chaos
+	father=none
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=brahman
+	age=25
+	random_traits=no
+	name="Brahman"
+	diplomacy=10
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=15
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brave
+	trait=dick_big_good_1
+	trait=education_stewardship_5
+	trait=gregarious
+	trait=intellect_good_1
+	trait=orange_skin_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=temperate
+	trait=white_eye_trait
+	trait=white_hair_trait
+	ethnicity=indian_dravidian_20
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_muslim_02
+	custom_hair=male_hair_fp2_iberian_muslim_02
+}
+	
+}}
+
+
+chandra	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=chandra
+	age=25
+	random_traits=no
+	name="Chandra"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=education_learning_4
+	trait=fickle
+	trait=intellect_good_1
+	trait=natural_blue_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=zealous
+	ethnicity=indian_dravidian_4
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_03
+}
+	
+}}
+
+
+durga	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=durga
+	female=yes
+	age=25
+	random_traits=no
+	name="Durga"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=32
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brave
+	trait=calm
+	trait=diligent
+	trait=education_martial_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_8
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=cfp_female_hair_indian_01
+}
+	
+}}
+
+
+ganesha	=	{
+	mother=parvati
+	father=shiva
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ganesha
+	age=25
+	random_traits=no
+	name="Ganesha"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=calm
+	trait=compassionate
+	trait=education_learning_4
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	ethnicity=indian_dravidian_10
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_01
+}
+	
+}}
+
+
+hanuman	=	{
+	mother=anjani
+	father=kesari
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hanuman
+	age=25
+	random_traits=no
+	name="Hanuman"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brave
+	trait=eccentric
+	trait=education_martial_4
+	trait=intellect_good_1
+	trait=orange_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=zealous
+	ethnicity=indian_dravidian_12
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_02
+	custom_hair=male_hair_indian_03
+}
+	
+}}
+
+
+hiranyakashipu	=	{
+	mother=danu
+	father=kashyapa
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hiranyakashipu
+	age=25
+	random_traits=no
+	name="Hiranyakashipu"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=arrogant
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_martial_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=wrathful
+	trait=yellow_skin_trait
+	ethnicity=indian_dravidian_16
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_muslim_01
+	custom_hair=male_hair_indian_01
+}
+	
+}}
+
+
+indra	=	{
+	mother=aditi
+	father=kashyapa
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=indra
+	age=25
+	random_traits=no
+	name="Indra"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=brave
+	trait=diligent
+	trait=education_learning_5
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_skin_trait
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_14
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=m_beard_sp3_western_01
+	custom_hair=male_hair_mena_04
+}
+	
+}}
+
+
+kali	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=kali
+	female=yes
+	age=25
+	random_traits=no
+	name="Kali"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=36
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=cyan_skin_trait
+	trait=diligent
+	trait=education_martial_5
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=tits_big_good_2
+	trait=wrathful
+	ethnicity=indian_dravidian_14
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_muslim_02_common
+}
+	
+}}
+
+
+kartikeya	=	{
+	mother=parvati
+	father=shiva
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=kartikeya
+	age=25
+	random_traits=no
+	name="Kartikeya"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=brave
+	trait=diligent
+	trait=education_martial_4
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_24
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_01
+}
+	
+}}
+
+
+kashyapa	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=kashyapa
+	age=25
+	random_traits=no
+	name="kashyapa"
+	diplomacy=12
+	martial=11
+	stewardship=8
+	intrigue=24
+	learning=13
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=calm
+	trait=compassionate
+	trait=diligent
+	trait=education_learning_5
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_skin_trait
+	ethnicity=indian_dravidian_20
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_indian_03
+	custom_hair=male_hair_indian_02
+}
+	
+}}
+
+
+lakshmi	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=lakshmi
+	female=yes
+	age=25
+	random_traits=no
+	name="Lakshmi"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=education_stewardship_4
+	trait=generous
+	trait=humble
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_16
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_indian_03
+}
+	
+}}
+
+
+manu	=	{
+	mother=saranyu
+	father=surya
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=manu
+	female=yes
+	age=25
+	random_traits=no
+	name="Manu"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_1
+	trait=calm
+	trait=diligent
+	trait=eccentric
+	trait=education_stewardship_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_14
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_indian_03
+}
+	
+}}
+
+
+meghnad	=	{
+	mother=mandodari
+	father=ravana
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=meghnad
+	age=25
+	random_traits=no
+	name="Meghnad"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=32
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=diligent
+	trait=education_martial_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=trusting
+	trait=yellow_skin_trait
+	ethnicity=indian_dravidian_8
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_02
+}
+	
+}}
+
+
+parvati	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=parvati
+	female=yes
+	age=25
+	random_traits=no
+	name="Parvati"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=education_stewardship_4
+	trait=generous
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	ethnicity=indian_dravidian_10
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_muslim_01_common
+}
+	
+}}
+
+
+ravana	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ravana
+	age=25
+	random_traits=no
+	name="Ravana"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=32
+	health=16.25
+	trait=POG_pure_deity
+	trait=arrogant
+	trait=beauty_good_1
+	trait=education_martial_4
+	trait=greedy
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=wrathful
+	ethnicity=indian_dravidian_8
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_mena_04
+}
+	
+}}
+
+
+saranyu	=	{
+	mother=anjani
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=saranyu
+	female=yes
+	age=25
+	random_traits=no
+	name="Saranyu"
+	diplomacy=11
+	martial=14
+	stewardship=10
+	intrigue=19
+	learning=14
+	prowess=20
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_diplomacy_4
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	ethnicity=indian_dravidian_2
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_muslim_01
+}
+	
+}}
+
+
+saraswati	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=saraswati
+	female=yes
+	age=25
+	random_traits=no
+	name="Saraswati"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=education_diplomacy_4
+	trait=generous
+	trait=humble
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	ethnicity=indian_dravidian_2
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=cfp_female_hair_indian_01
+}
+	
+}}
+
+
+savarna	=	{
+	mother=saranyu
+	father=surya
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=savarna
+	female=yes
+	age=25
+	random_traits=no
+	name="Savarna"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=education_learning_4
+	trait=intellect_good_1
+	trait=paranoid
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	trait=zealous
+	ethnicity=indian_dravidian_4
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_indian_03
+}
+	
+}}
+
+
+shachi	=	{
+	mother=none
+	father=none
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=shachi
+	female=yes
+	age=25
+	random_traits=no
+	name="Shachi"
+	diplomacy=11
+	martial=14
+	stewardship=10
+	intrigue=19
+	learning=14
+	prowess=20
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brave
+	trait=diligent
+	trait=education_diplomacy_4
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	ethnicity=indian_dravidian_11
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=cfp_female_hair_indian_02
+}
+	
+}}
+
+
+shiva	=	{
+	mother=none
+	father=brahman
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=shiva
+	age=25
+	random_traits=no
+	name="Shiva"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=calm
+	trait=compassionate
+	trait=cyan_skin_trait
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_martial_5
+	trait=honest
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	ethnicity=indian_dravidian_2
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=m_hair_fp3_iranian_01
+}
+	
+}}
+
+
+surya	=	{
+	mother=aditi
+	father=kashyapa
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=surya
+	age=25
+	random_traits=no
+	name="Surya"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=blond_hair_trait
+	trait=calm
+	trait=diligent
+	trait=education_stewardship_5
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=zealous
+	ethnicity=indian_dravidian_3
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_mena_04
+}
+	
+}}
+
+
+varuna	=	{
+	mother=aditi
+	father=kashyapa
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=varuna
+	age=25
+	random_traits=no
+	name="Varuna"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=compassionate
+	trait=content
+	trait=education_learning_4
+	trait=honest
+	trait=intellect_good_1
+	trait=orange_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_skin_trait
+	ethnicity=indian_dravidian_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=m_hair_fp3_iranian_01
+}
+	
+}}
+
+
+vayu	=	{
+	mother=aditi
+	father=kashyapa
+	dynasty=hindu_gods_dynasty
+	dynasty_house=hindu_gods_dynasty
+	culture="hindustani"
+	religion="vajrayana"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=vayu
+	age=25
+	random_traits=no
+	name="Vayu"
+	diplomacy=15
+	martial=15
+	stewardship=11
+	intrigue=22
+	learning=14
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=cyan_skin_trait
+	trait=eccentric
+	trait=education_diplomacy_3
+	trait=impatient
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=wrathful
+	ethnicity=indian_dravidian_11
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_christian_01
+	custom_hair=male_hair_turkic_05
+}
+	
+}}
+
+
+visnhu	=	{
+	dna=visnhu
+	age=25
+	random_traits=no
+	name="Visnhu"
+	diplomacy=10
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=23
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=blue_skin_trait
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_martial_5
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=temperate
+	ethnicity=indian_dravidian_15
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_01
+}
+	
+}}
+
+
+yama	=	{
+	dna=yama
+	age=25
+	random_traits=no
+	name="Yama"
+	diplomacy=13
+	martial=13
+	stewardship=9
+	intrigue=21
+	learning=13
+	prowess=26
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=blue_skin_trait
+	trait=content
+	trait=diligent
+	trait=education_learning_4
+	trait=intellect_good_1
+	trait=orange_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=tits_big_good_2
+	trait=zealous
+	ethnicity=indian_dravidian_1
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_indian_03
+}
+	
+}}
+

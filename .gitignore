@@ -1,12 +1,31 @@
+rulers/*
+docs/*
+
 build/characters/Egypt_gods/*
 build/characters/Greek_gods/*
+build/characters/Norse_gods/*
+build/characters/Judaism_gods/*
+build/characters/Hindu_gods/*
+
+
 build/dna_data/Greek_gods/*
 build/dna_data/Egypt_gods/*
+build/dna_data/Norse_gods/*
+build/dna_data/Judaism_gods/*
+build/dna_data/Hindu_gods/*
+
+
 
 !build/characters/Egypt_gods/.gitkeep
 !build/characters/Greek_gods/.gitkeep
+!build/characters/Norse_gods/.gitkeep
+!build/characters/Judaism_gods/.gitkeep
+!build/characters/Hindu_gods/.gitkeep
+
 !build/dna_data/Egypt_gods/.gitkeep
 !build/dna_data/Greek_gods/.gitkeep
+!build/dna_data/Norse_gods/.gitkeep
+!build/dna_data/Judaism_gods/.gitkeep
+!build/dna_data/Hindu_gods/.gitkeep
 
 #scripts/*
-#docs/*

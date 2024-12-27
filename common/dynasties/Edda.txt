@@ -1,0 +1,6 @@
+norse_gods_dynasty = {
+	prefix = "dynnp_of"
+	name = "dynn_Edda"
+	motto = "dynn_Edda_motto"
+	culture = "norse"
+}

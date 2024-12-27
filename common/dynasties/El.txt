@@ -1,0 +1,6 @@
+judaism_gods_dynasty = {
+	prefix = "dynnp_of"
+	name = "dynn_El"
+	motto = "dynn_El_motto"
+	culture = "ashkenazi"
+}

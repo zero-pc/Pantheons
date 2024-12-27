@@ -1,0 +1,1613 @@
+
+aegir	=	{
+	mother=unknown
+	father=fornjot
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=aegir
+	age=25
+	random_traits=no
+	name="Aegir"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=cyan_hair_trait
+	trait=education_martial_4
+	trait=fecund
+	trait=fickle
+	trait=generous
+	trait=impatient
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=zealous
+	ethnicity=european_med_italian_56
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_mena_04
+	custom_hair=male_hair_western_07
+}
+	
+}}
+
+
+angrboda	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=angrboda
+	female=yes
+	age=25
+	random_traits=no
+	name="Angrboda"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=cynical
+	trait=eccentric
+	trait=education_learning_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pink_hair_trait
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=wrathful
+	ethnicity=european_med_greek_3
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=f_hair_fp3_iranian_02_common
+}
+	
+}}
+
+
+baldr	=	{
+	mother=frigga
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=baldr
+	age=25
+	random_traits=no
+	name="Baldr"
+	diplomacy=8
+	martial=14
+	stewardship=7
+	intrigue=9
+	learning=14
+	prowess=26
+	health=16.5
+	trait=POG_pure_deity
+	trait=athletic
+	trait=beauty_good_1
+	trait=brave
+	trait=calm
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_diplomacy_4
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=red_hair_trait
+	trait=strong
+	ethnicity=european_caucasian_nordic_25
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_mena_03
+}
+	
+}}
+
+
+bestla	=	{
+	mother=unknown
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=bestla
+	female=yes
+	age=25
+	random_traits=no
+	name="Bestla"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=27
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=education_stewardship_4
+	trait=fecund
+	trait=forgiving
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=yellow_eye_trait
+	ethnicity=european_med_greek_64
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_rtt_02
+}
+	
+}}
+
+
+bor	=	{
+	mother=none
+	father=buri
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=bor
+	age=25
+	random_traits=no
+	name="Bor"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=27
+	health=16.25
+	trait=POG_pure_deity
+	trait=arbitrary
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=education_stewardship_4
+	trait=fecund
+	trait=forgiving
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=stubborn
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=yellow_eye_trait
+	ethnicity=european_med_greek_51
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_08
+	custom_hair=male_hair_byzantine_01
+}
+	
+}}
+
+
+bragi	=	{
+	mother=jord
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=bragi
+	age=25
+	random_traits=no
+	name="Bragi"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=eccentric
+	trait=education_diplomacy_5
+	trait=fecund
+	trait=forgiving
+	trait=intellect_good_1
+	trait=patient
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	ethnicity=european_med_greek_61
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_03
+	custom_hair=male_hair_western_09
+}
+	
+}}
+
+
+buri	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=buri
+	age=25
+	random_traits=no
+	name="Buri"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=27
+	health=16.25
+	trait=POG_pure_deity
+	trait=arbitrary
+	trait=beauty_good_2
+	trait=education_diplomacy_3
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=shy
+	trait=strong
+	trait=tits_big_good_2
+	trait=trusting
+	trait=white_hair_trait
+	trait=white_skin_trait
+	trait=yellow_eye_trait
+	ethnicity=european_med_italian_62
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_mena_04
+	custom_hair=male_hair_western_06
+}
+	
+}}
+
+
+farbauti	=	{
+	mother=unknown
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=farbauti
+	age=25
+	random_traits=no
+	name="Farbauti"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=27
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=callous
+	trait=diligent
+	trait=education_intrigue_3
+	trait=fecund
+	trait=greedy
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_64
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_09
+	custom_hair=male_hair_western_03
+}
+	
+}}
+
+
+fenrir	=	{
+	mother=angrboda
+	father=loki
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=fenrir
+	age=25
+	random_traits=no
+	name="Fenrir"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=34
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_hair_trait
+	trait=black_skin_trait
+	trait=callous
+	trait=education_martial_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=shy
+	trait=strong
+	trait=tits_big_good_2
+	trait=wrathful
+	ethnicity=european_med_greek_19
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_byzantine_01
+}
+	
+}}
+
+
+fornjot	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=fornjot
+	age=25
+	random_traits=no
+	name="Fornjot"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=black_hair_trait
+	trait=cynical
+	trait=eccentric
+	trait=education_intrigue_3
+	trait=fecund
+	trait=intellect_good_1
+	trait=natural_blue_eye_trait
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=wrathful
+	ethnicity=european_med_greek_3
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_byzantine_02
+}
+	
+}}
+
+
+forseti	=	{
+	mother=unknown
+	father=baldr
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=forseti
+	age=25
+	random_traits=no
+	name="Forseti"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=brave
+	trait=diligent
+	trait=education_martial_4
+	trait=fecund
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	ethnicity=european_med_italian_48
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_fp1_07
+}
+	
+}}
+
+
+freyja	=	{
+	mother=unknown
+	father=njord
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=freyja
+	female=yes
+	age=25
+	random_traits=no
+	name="Freyja"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_stewardship_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	ethnicity=european_med_greek_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_custom_01
+}
+	
+}}
+
+
+freyr	=	{
+	mother=unknown
+	father=njord
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=freyr
+	age=25
+	random_traits=no
+	name="Freyr"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_stewardship_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	ethnicity=european_med_greek_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_byzantine_01
+}
+	
+}}
+
+
+frigga	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=frigga
+	female=yes
+	age=25
+	random_traits=no
+	name="Frigga"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=black_hair_trait
+	trait=brave
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_53
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_custom_06
+}
+	
+}}
+
+
+heimdall	=	{
+	mother=unknown
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=heimdall
+	age=25
+	random_traits=no
+	name="Heimdall"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=calm
+	trait=eccentric
+	trait=education_diplomacy_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	ethnicity=european_med_italian_50
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_western_03
+}
+	
+}}
+
+
+hel	=	{
+	mother=angrboda
+	father=loki
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hel
+	female=yes
+	age=25
+	random_traits=no
+	name="Hel"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_intrigue_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=red_hair_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_67
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_western_05
+}
+	
+}}
+
+
+hod	=	{
+	mother=frigga
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=hod
+	age=25
+	random_traits=no
+	name="Hod"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=14
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_intrigue_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=wrathful
+	trait=zealous
+	ethnicity=european_med_italian_55
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_western_05
+}
+	
+}}
+
+
+idunn	=	{
+	mother=jord
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=idunn
+	female=yes
+	age=25
+	random_traits=no
+	name="Idunn"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=compassionate
+	trait=cyan_eye_trait
+	trait=education_diplomacy_5
+	trait=fecund
+	trait=forgiving
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_hair_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_61
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_sogdian_01
+}
+	
+}}
+
+
+jord	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=jord
+	female=yes
+	age=25
+	random_traits=no
+	name="Jord"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=diligent
+	trait=eccentric
+	trait=education_stewardship_5
+	trait=fecund
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=red_hair_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_6
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_sogdian_04
+}
+	
+}}
+
+
+jormungandr	=	{
+	mother=angrboda
+	father=loki
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=jormungandr
+	female=yes
+	age=25
+	random_traits=no
+	name="Jormungandr"
+	diplomacy=11
+	martial=9
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=34
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=callous
+	trait=education_martial_5
+	trait=fecund
+	trait=green_eye_trait
+	trait=green_hair_trait
+	trait=green_skin_trait
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=shy
+	trait=strong
+	trait=tits_big_good_2
+	trait=wrathful
+	ethnicity=european_med_greek_19
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_custom_06
+}
+	
+}}
+
+
+laufey	=	{
+	mother=unknown
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=laufey
+	female=yes
+	age=25
+	random_traits=no
+	name="Laufey"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=15
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=cyan_hair_trait
+	trait=diligent
+	trait=education_diplomacy_2
+	trait=fecund
+	trait=intellect_good_1
+	trait=paranoid
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	ethnicity=european_med_greek_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_northern_02
+}
+	
+}}
+
+
+loki	=	{
+	mother=laufey
+	father=farbauti
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=loki
+	age=25
+	random_traits=no
+	name="Loki"
+	diplomacy=15
+	martial=14
+	stewardship=18
+	intrigue=25
+	learning=17
+	prowess=19
+	health=16
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=arrogant
+	trait=beauty_good_1
+	trait=education_intrigue_5
+	trait=fecund
+	trait=greedy
+	trait=intellect_good_3
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_59
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=cfp_male_hair_slavic_04
+}
+	
+}}
+
+
+njord	=	{
+	mother=unknown
+	father=unknown
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=njord
+	age=25
+	random_traits=no
+	name="Njord"
+	diplomacy=15
+	martial=14
+	stewardship=18
+	intrigue=25
+	learning=17
+	prowess=19
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=blue_hair_trait
+	trait=education_diplomacy_5
+	trait=fecund
+	trait=fickle
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	ethnicity=european_med_italian_64
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_fp2_iberian_christian_03
+	custom_hair=male_hair_western_08
+}
+	
+}}
+
+
+odin	=	{
+	mother=bestla
+	father=bor
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=odin
+	age=25
+	random_traits=no
+	name="Odin"
+	diplomacy=19
+	martial=18
+	stewardship=22
+	intrigue=29
+	learning=22
+	prowess=28
+	health=16
+	trait=POG_pure_deity
+	trait=arrogant
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_learning_5
+	trait=fecund
+	trait=fickle
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=wrathful
+	trait=yellow_eye_trait
+	ethnicity=european_med_greek_48
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_01
+	custom_hair=male_hair_western_08
+}
+	
+}}
+
+
+ran	=	{
+	mother=unknown
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ran
+	female=yes
+	age=25
+	random_traits=no
+	name="Ran"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=cyan_hair_trait
+	trait=education_diplomacy_3
+	trait=fecund
+	trait=fickle
+	trait=generous
+	trait=impatient
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=zealous
+	ethnicity=european_med_italian_56
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_western_03
+}
+	
+}}
+
+
+sif	=	{
+	mother=unknown
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=sif
+	female=yes
+	age=25
+	random_traits=no
+	name="Sif"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=compassionate
+	trait=education_stewardship_5
+	trait=fecund
+	trait=forgiving
+	trait=generous
+	trait=green_eye_trait
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_hair_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_61
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp2_iberian_christian_02
+}
+	
+}}
+
+
+skadi	=	{
+	mother=unknown
+	father=thjazi
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=skadi
+	female=yes
+	age=25
+	random_traits=no
+	name="Skadi"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=diligent
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=patient
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=european_med_italian_50
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_western_03
+}
+	
+}}
+
+
+sol	=	{
+	mother=none
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=sol
+	female=yes
+	age=25
+	random_traits=no
+	name="Sol"
+	diplomacy=11
+	martial=14
+	stewardship=10
+	intrigue=19
+	learning=14
+	prowess=20
+	health=16.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_stewardship_5
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=yellow_skin_trait
+	ethnicity=european_caucasian_nordic_38
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_northern_03
+}
+	
+}}
+
+
+thjazi	=	{
+	mother=unknown
+	father=ymir
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=thjazi
+	age=25
+	random_traits=no
+	name="Thjazi"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=compassionate
+	trait=eccentric
+	trait=education_diplomacy_4
+	trait=fecund
+	trait=forgiving
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=european_med_italian_50
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_mena_04
+	custom_hair=male_hair_western_07
+}
+	
+}}
+
+
+thor	=	{
+	mother=jord
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=thor
+	age=25
+	random_traits=no
+	name="Thor"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=brave
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=gluttonous
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	trait=yellow_hair_trait
+	ethnicity=european_med_greek_21
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_01
+	custom_hair=male_hair_western_08
+}
+	
+}}
+
+
+thrud	=	{
+	mother=sif
+	father=thor
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=thrud
+	female=yes
+	age=25
+	random_traits=no
+	name="Thrud"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=brave
+	trait=diligent
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	ethnicity=european_med_greek_61
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=female_empty
+	custom_hair=female_hair_fp1_05
+}
+	
+}}
+
+
+tyr	=	{
+	mother=unknown
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=tyr
+	age=25
+	random_traits=no
+	name="Tyr"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=black_hair_trait
+	trait=brave
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_39
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_03
+	custom_hair=male_hair_western_09
+}
+	
+}}
+
+
+ullr	=	{
+	mother=sif
+	father=thor
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ullr
+	age=25
+	random_traits=no
+	name="Ullr"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=blond_hair_trait
+	trait=brave
+	trait=diligent
+	trait=eccentric
+	trait=education_martial_5
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_greek_53
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_western_02
+	custom_hair=male_hair_western_09
+}
+	
+}}
+
+
+vali	=	{
+	mother=rindr
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=vali
+	age=25
+	random_traits=no
+	name="Vali"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=brave
+	trait=calm
+	trait=education_martial_3
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	trait=yellow_hair_trait
+	ethnicity=european_med_greek_26
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_western_02
+}
+	
+}}
+
+
+vidar	=	{
+	mother=grid
+	father=odin
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=vidar
+	age=25
+	random_traits=no
+	name="Vidar"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=21
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_2
+	trait=black_hair_trait
+	trait=brave
+	trait=education_martial_3
+	trait=fecund
+	trait=intellect_good_1
+	trait=paranoid
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	ethnicity=european_med_greek_43
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_beard_mena_04
+	custom_hair=male_hair_western_06
+}
+	
+}}
+
+
+ymir	=	{
+	mother=chaos
+	father=none
+	dynasty=norse_gods_dynasty
+	dynasty_house=norse_gods_dynasty
+	culture="norse"
+	religion="norse_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ymir
+	age=25
+	random_traits=no
+	name="Ymir"
+	diplomacy=11
+	martial=13
+	stewardship=13
+	intrigue=14
+	learning=12
+	prowess=27
+	health=16.25
+	trait=POG_pure_deity
+	trait=arbitrary
+	trait=beauty_good_2
+	trait=education_learning_5
+	trait=fecund
+	trait=generous
+	trait=intellect_good_1
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=shrewd
+	trait=shy
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=european_med_greek_57
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_beards=male_empty
+	custom_hair=male_hair_fp1_04
+}
+	
+}}
+

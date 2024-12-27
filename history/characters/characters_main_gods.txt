@@ -1,0 +1,42 @@
+
+chaos	=	{
+	mother=none
+	father=none
+	culture="ashkenazi"
+	religion="pagan"
+    female=yes
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=chaos
+	age=25
+	random_traits=no
+	name="Chaos"
+	diplomacy=60
+	martial=60
+	stewardship=60
+	intrigue=60
+	learning=60
+	prowess=60
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=education_martial_5
+	trait=gregarious
+	trait=intellect_good_3
+	trait=lustful
+	trait=physique_good_3
+	trait=pure_blooded
+	trait=vengeful
+	trait=white_eye_trait
+	trait=white_hair_trait
+    trait=black_skin_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	ethnicity=european_med_italian_59
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_western_07
+	custom_beards=female_empty
+}
+	
+}}

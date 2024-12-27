@@ -1,0 +1,803 @@
+
+adam	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=adam
+	age=25
+	random_traits=no
+	name="Adam"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_stewardship_5
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_skin_trait
+	trait=yellow_hair_trait
+	ethnicity=jewish_ashkenazi_12
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_fp2_iberian_muslim_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+ariel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=ariel
+	age=25
+	random_traits=no
+	name="Ariel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=18
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=education_stewardship_4
+	trait=fecund
+	trait=generous
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=tits_big_good_2
+	trait=trusting
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_36
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_western_03
+	custom_beards=male_empty
+}
+	
+}}
+
+
+azazel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=azazel
+	age=25
+	random_traits=no
+	name="Azazel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=deceitful
+	trait=education_martial_4
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_54
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_western_09
+	custom_beards=male_empty
+}
+	
+}}
+
+
+chamuel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=chamuel
+	female=yes
+	age=25
+	random_traits=no
+	name="Chamuel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=18
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=brave
+	trait=education_stewardship_4
+	trait=fecund
+	trait=forgiving
+	trait=gregarious
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_33
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_indian_02
+	custom_beards=female_empty
+}
+	
+}}
+
+
+elohim	=	{
+	mother=chaos
+	father=none
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=elohim
+	female=yes
+	age=25
+	random_traits=no
+	name="Elohim"
+	diplomacy=30
+	martial=40
+	stewardship=43
+	intrigue=41
+	learning=41
+	prowess=11
+	health=16.75
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=black_hair_trait
+	trait=cyan_eye_trait
+	trait=education_learning_5
+	trait=fecund
+	trait=forgiving
+	trait=intellect_good_3
+	trait=physique_good_3
+	trait=pure_blooded
+	trait=shrewd
+	trait=shy
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=wrathful
+	ethnicity=jewish_ashkenazi_45
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_rtt_02
+	custom_beards=female_empty
+}
+	
+}}
+
+
+eve	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=eve
+	female=yes
+	age=25
+	random_traits=no
+	name="Eve"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=black_eye_trait
+	trait=black_hair_trait
+	trait=diligent
+	trait=education_stewardship_4
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_12
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_indian_03
+	custom_beards=female_empty
+}
+	
+}}
+
+
+gabriel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=gabriel
+	age=25
+	random_traits=no
+	name="Gabriel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=content
+	trait=cyan_eye_trait
+	trait=education_diplomacy_4
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_42
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_fp1_06
+	custom_beards=male_empty
+}
+	
+}}
+
+
+haniel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=haniel
+	female=yes
+	age=25
+	random_traits=no
+	name="Haniel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=18
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=education_stewardship_5
+	trait=fecund
+	trait=generous
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=tits_big_good_2
+	trait=trusting
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_25
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_byzantine_01
+	custom_beards=female_empty
+}
+	
+}}
+
+
+jophiel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=jophiel
+	age=25
+	random_traits=no
+	name="Jophiel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=education_learning_4
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_33
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_byzantine_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+lilith	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=lilith
+	female=yes
+	age=25
+	random_traits=no
+	name="Lilith"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.5
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=deceitful
+	trait=education_martial_4
+	trait=fecund
+	trait=ginger_hair_trait
+	trait=gregarious
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_12
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_indian_03
+	custom_beards=female_empty
+}
+	
+}}
+
+
+lucifer	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=lucifer
+	female=yes
+	age=25
+	random_traits=no
+	name="Lucifer"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=16.75
+	trait=POG_pure_deity
+	trait=ambitious
+	trait=beauty_good_3
+	trait=education_martial_5
+	trait=fecund
+	trait=intellect_good_3
+	trait=physique_good_3
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=sadistic
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=white_skin_trait
+	trait=wrathful
+	trait=yellow_hair_trait
+	ethnicity=jewish_ashkenazi_42
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_custom_05
+	custom_beards=female_empty
+}
+	
+}}
+
+
+metatron	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=metatron
+	age=25
+	random_traits=no
+	name="Metatron"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=cyan_eye_trait
+	trait=diligent
+	trait=education_diplomacy_4
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_26
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_fp1_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+michael	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=michael
+	age=25
+	random_traits=no
+	name="Michael"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=cyan_eye_trait
+	trait=diligent
+	trait=education_martial_4
+	trait=fecund
+	trait=intellect_good_1
+	trait=patient
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_22
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_byzantine_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+raphael	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=raphael
+	age=25
+	random_traits=no
+	name="Raphael"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=content
+	trait=cyan_eye_trait
+	trait=education_learning_4
+	trait=fecund
+	trait=intellect_good_1
+	trait=patient
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_24
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_mena_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+raziel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=raziel
+	age=25
+	random_traits=no
+	name="Raziel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_learning_4
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_41
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_byzantine_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+sandalphon	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=sandalphon
+	age=25
+	random_traits=no
+	name="Sandalphon"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=cyan_eye_trait
+	trait=diligent
+	trait=education_learning_3
+	trait=fecund
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_18
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_fp2_iberian_christian_01
+	custom_beards=male_empty
+}
+	
+}}
+
+
+uriel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=uriel
+	age=25
+	random_traits=no
+	name="Uriel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=calm
+	trait=cyan_eye_trait
+	trait=diligent
+	trait=education_learning_4
+	trait=fecund
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_16
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_western_05
+	custom_beards=male_empty
+}
+	
+}}
+
+
+zadkiel	=	{
+	mother=elohim
+	father=god
+	dynasty=judaism_gods_dynasty
+	dynasty_house=judaism_gods_dynasty
+	culture="ashkenazi"
+	religion="rabbinism"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=zadkiel
+	female=yes
+	age=25
+	random_traits=no
+	name="Zadkiel"
+	diplomacy=21
+	martial=26
+	stewardship=26
+	intrigue=24
+	learning=22
+	prowess=25
+	health=15.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=diligent
+	trait=education_learning_4
+	trait=fecund
+	trait=honest
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=temperate
+	trait=tits_big_good_2
+	trait=white_eye_trait
+	trait=white_hair_trait
+	trait=white_skin_trait
+	ethnicity=jewish_ashkenazi_41
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=female_hair_northern_03
+	custom_beards=female_empty
+}
+	
+}}
+

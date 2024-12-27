@@ -1,44 +1,89 @@
 
-amun	=	{
-	mother=none
+amun-ra	=	{
+	mother=nun
 	father=none
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
 	religion="kushitism_pagan"
 	847.1.1={	birth	=	"847.1.1"	}
-	dna=amun
+	dna=ra
 	age=25
 	random_traits=no
-	name="Amun"
-	diplomacy=15
-	martial=23
-	stewardship=13
-	intrigue=18
-	learning=16
-	prowess=24
+	name="Amun-Ra"
+	diplomacy=27
+	martial=29
+	stewardship=29
+	intrigue=34
+	learning=29
+	prowess=17
 	health=16
 	trait=POG_pure_deity
 	trait=beauty_good_1
-	trait=blond_hair_trait
-	trait=calm
-	trait=cyan_skin_trait
+	trait=blue_hair_trait
+	trait=brave
+	trait=dick_big_good_1
 	trait=diligent
-	trait=education_martial_3
-	trait=gregarious
+	trait=education_learning_5
 	trait=intellect_good_1
+	trait=lifestyle_mystic
+	trait=orange_skin_trait
 	trait=physique_good_1
 	trait=pure_blooded
 	trait=scholar
 	trait=shrewd
 	trait=strong
-	trait=tits_big_good_1
 	trait=yellow_eye_trait
-	ethnicity=mid_east_egyptian_22
+	trait=zealous
+	ethnicity=mid_east_arabic_73
 	portrait_override={
 	portrait_modifier_overrides={
 	custom_hair=male_hair_western_07
-	custom_beards=male_beard_western_03
+	custom_beards=male_beard_western_04
+}
+	
+}}
+
+
+anhur	=	{
+	mother=menhit
+	father=amun-ra
+	dynasty=egypt_gods_dynasty
+	dynasty_house=egypt_gods_dynasty
+	culture="egyptian"
+	religion="kushitism_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=anhur
+	age=25
+	random_traits=no
+	name="Anhur"
+	diplomacy=23
+	martial=22
+	stewardship=22
+	intrigue=29
+	learning=21
+	prowess=20
+	health=16.75
+	trait=POG_pure_deity
+	trait=beauty_good_1
+	trait=blue_hair_trait
+	trait=brave
+	trait=dick_big_good_1
+	trait=diligent
+	trait=education_martial_5
+	trait=intellect_good_1
+	trait=orange_skin_trait
+	trait=physique_good_3
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=yellow_eye_trait
+	trait=zealous
+	ethnicity=mid_east_arabic_83
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=male_hair_western_06
+	custom_beards=male_beard_mena_04
 }
 	
 }}
@@ -89,7 +134,7 @@ anubis	=	{
 
 bastet	=	{
 	mother=isis
-	father=ra
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -134,8 +179,8 @@ bastet	=	{
 
 
 geb	=	{
-	mother=shu
-	father=tefnut
+	mother=tefnut
+	father=shu
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -176,8 +221,8 @@ geb	=	{
 
 
 hathor	=	{
-	mother=none
-	father=ra
+	mother=menhit
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -314,7 +359,7 @@ isis	=	{
 
 khonsu	=	{
 	mother=mut
-	father=amun
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -357,7 +402,7 @@ khonsu	=	{
 
 maat	=	{
 	mother=hathor
-	father=ra
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -400,9 +445,54 @@ maat	=	{
 }}
 
 
+menhit	=	{
+	mother=nun
+	father=none
+	dynasty=egypt_gods_dynasty
+	dynasty_house=egypt_gods_dynasty
+	culture="egyptian"
+	religion="kushitism_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=menhit
+	female=yes
+	age=25
+	random_traits=no
+	name="Menhit"
+	diplomacy=13
+	martial=24
+	stewardship=12
+	intrigue=17
+	learning=29
+	prowess=13
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=calm
+	trait=diligent
+	trait=diplomacy_learning_5
+	trait=honest
+	trait=intellect_good_2
+	trait=physique_good_2
+	trait=pure_blooded
+	trait=scholar
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=yellow_eye_trait
+	trait=yellow_skin_trait
+	ethnicity=mid_east_arabic_31
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_mena_02
+	custom_beards=female_empty
+}
+	
+}}
+
+
 mut	=	{
 	mother=none
-	father=none
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -439,6 +529,50 @@ mut	=	{
 	portrait_override={
 	portrait_modifier_overrides={
 	custom_hair=cfp_female_hair_mena_02
+	custom_beards=female_empty
+}
+	
+}}
+
+
+neith	=	{
+	mother=nun
+	father=none
+	dynasty=egypt_gods_dynasty
+	dynasty_house=egypt_gods_dynasty
+	culture="egyptian"
+	religion="kushitism_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=neith
+	female=yes
+	age=25
+	random_traits=no
+	name="Neith"
+	diplomacy=19
+	martial=22
+	stewardship=18
+	intrigue=27
+	learning=20
+	prowess=20
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=cyan_eye_trait
+	trait=cyan_hair_trait
+	trait=eccentric
+	trait=gregarious
+	trait=intellect_good_1
+	trait=martial_learning_4
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	ethnicity=mid_east_arabic_54
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_mena_01
 	custom_beards=female_empty
 }
 	
@@ -489,9 +623,53 @@ nephthys	=	{
 }}
 
 
+nun	=	{
+	mother=chaos
+	father=none
+	dynasty=egypt_gods_dynasty
+	dynasty_house=egypt_gods_dynasty
+	culture="egyptian"
+	religion="kushitism_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=nun
+	female=yes
+	age=25
+	random_traits=no
+	name="Nun"
+	diplomacy=19
+	martial=22
+	stewardship=18
+	intrigue=27
+	learning=20
+	prowess=20
+	health=16.25
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=cyan_eye_trait
+	trait=cyan_hair_trait
+	trait=eccentric
+	trait=education_learning_4
+	trait=gregarious
+	trait=intellect_good_1
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=shrewd
+	trait=strong
+	trait=temperate
+	trait=tits_big_good_2
+	ethnicity=mid_east_arabic_54
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_mena_01
+	custom_beards=female_empty
+}
+	
+}}
+
+
 nut	=	{
-	mother=shu
-	father=tefnut
+	mother=tefnut
+	father=shu
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -579,55 +757,9 @@ osiris	=	{
 }}
 
 
-ra	=	{
-	mother=none
-	father=none
-	dynasty=egypt_gods_dynasty
-	dynasty_house=egypt_gods_dynasty
-	culture="egyptian"
-	religion="kushitism_pagan"
-	847.1.1={	birth	=	"847.1.1"	}
-	dna=ra
-	age=25
-	random_traits=no
-	name="Ra"
-	diplomacy=27
-	martial=29
-	stewardship=29
-	intrigue=34
-	learning=29
-	prowess=17
-	health=16
-	trait=POG_pure_deity
-	trait=beauty_good_1
-	trait=blue_hair_trait
-	trait=brave
-	trait=dick_big_good_1
-	trait=diligent
-	trait=education_learning_5
-	trait=intellect_good_1
-	trait=lifestyle_mystic
-	trait=orange_skin_trait
-	trait=physique_good_1
-	trait=pure_blooded
-	trait=scholar
-	trait=shrewd
-	trait=strong
-	trait=yellow_eye_trait
-	trait=zealous
-	ethnicity=mid_east_arabic_73
-	portrait_override={
-	portrait_modifier_overrides={
-	custom_hair=male_hair_western_07
-	custom_beards=male_beard_western_04
-}
-	
-}}
-
-
 sekhmet	=	{
-	mother=none
-	father=ra
+	mother=menhit
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -664,6 +796,51 @@ sekhmet	=	{
 	portrait_override={
 	portrait_modifier_overrides={
 	custom_hair=cfp_female_hair_african_02
+	custom_beards=female_empty
+}
+	
+}}
+
+
+serket	=	{
+	mother=neith
+	father=set
+	dynasty=egypt_gods_dynasty
+	dynasty_house=egypt_gods_dynasty
+	culture="egyptian"
+	religion="kushitism_pagan"
+	847.1.1={	birth	=	"847.1.1"	}
+	dna=serket
+	female=yes
+	age=25
+	random_traits=no
+	name="Serket"
+	diplomacy=22
+	martial=14
+	stewardship=19
+	intrigue=27
+	learning=22
+	prowess=20
+	health=16
+	trait=POG_pure_deity
+	trait=beauty_good_3
+	trait=brave
+	trait=cyan_hair_trait
+	trait=education_martial_5
+	trait=intellect_good_1
+	trait=lustful
+	trait=physique_good_1
+	trait=pure_blooded
+	trait=red_eye_trait
+	trait=shrewd
+	trait=strong
+	trait=tits_big_good_2
+	trait=vengeful
+	trait=yellow_skin_trait
+	ethnicity=mid_east_arabic_25
+	portrait_override={
+	portrait_modifier_overrides={
+	custom_hair=cfp_female_hair_mena_02
 	custom_beards=female_empty
 }
 	
@@ -714,8 +891,8 @@ set	=	{
 
 
 shu	=	{
-	mother=none
-	father=ra
+	mother=menhit
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -800,8 +977,8 @@ sobek	=	{
 
 
 tefnut	=	{
-	mother=none
-	father=ra
+	mother=menhit
+	father=amun-ra
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty
 	culture="egyptian"
@@ -812,17 +989,18 @@ tefnut	=	{
 	age=25
 	random_traits=no
 	name="Tefnut"
-	diplomacy=10
-	martial=12
-	stewardship=17
-	intrigue=22
-	learning=20
-	prowess=16
+	diplomacy=22
+	martial=14
+	stewardship=19
+	intrigue=27
+	learning=22
+	prowess=20
 	health=16.25
 	trait=POG_pure_deity
-	trait=beauty_good_1
-	trait=education_stewardship_3
-	trait=impatient
+	trait=beauty_good_3
+	trait=eccentric
+	trait=education_martial_3
+	trait=gregarious
 	trait=intellect_good_1
 	trait=physique_good_1
 	trait=pure_blooded
@@ -830,10 +1008,10 @@ tefnut	=	{
 	trait=shrewd
 	trait=strong
 	trait=temperate
-	trait=tits_big_good_1
+	trait=tits_big_good_2
+	trait=yellow_hair_trait
 	trait=yellow_skin_trait
-	trait=zealous
-	ethnicity=mid_east_arabic_28
+	ethnicity=mid_east_egyptian_22
 	portrait_override={
 	portrait_modifier_overrides={
 	custom_hair=female_hair_western_05
@@ -844,7 +1022,7 @@ tefnut	=	{
 
 
 thoth	=	{
-	mother=none
+	mother=nun
 	father=none
 	dynasty=egypt_gods_dynasty
 	dynasty_house=egypt_gods_dynasty

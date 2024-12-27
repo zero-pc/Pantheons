@@ -1,0 +1,6 @@
+hindu_gods_dynasty = {
+	prefix = "dynnp_of"
+	name = "dynn_Bhrama"
+	motto = "dynn_Bhrama_motto"
+	culture = "hindustani"
+}
