@@ -1,5 +1,6 @@
-rulers/*
 docs/*
+!docs/.gitkeep
+
 
 build/characters/Egypt_gods/*
 build/characters/Greek_gods/*
