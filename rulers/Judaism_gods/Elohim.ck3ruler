@@ -7,38 +7,21 @@ ruler={
 		age=25
 		random_traits=no
 		name="Elohim"
-		skill={ 30 40 43 41 41 11 }
+		skill={ 31 40 43 43 41 23 }
 		health=16.75
-		traits={ tits_big_good_2 POG_pure_deity pure_blooded fecund strong shrewd beauty_good_3 physique_good_3 intellect_good_3 black_hair_trait cyan_eye_trait white_skin_trait education_learning_5 shy wrathful forgiving }
+		traits={ tits_big_good_2 POG_pure_deity pure_blooded fecund strong shrewd beauty_good_3 physique_good_3 intellect_good_3 cyan_eye_trait white_skin_trait education_learning_5 shy wrathful forgiving black_hair_trait }
 		ethnicity=jewish_ashkenazi_45
 	}
 
 	dynasty_coat_of_arms_id={
 		coat_of_arms={
 			pattern="pattern_solid.dds"
-			color1=red
-			color2=green
-			color3=white
+			color1=blue
+			color2=yellow
 			colored_emblem={
-				color1=white
-				color2=yellow
-				texture="ce_octogon_plain_frame.dds"
-				instance={
-					position={ 0.500000 0.480000 }
-					scale={ 0.750000 0.750000 }
-				}
-
-			}
-
-			colored_emblem={
-				color1=red
-				color2=red
-				texture="ce_rosetta_04.dds"
-				instance={
-					position={ 0.500000 0.480000 }
-					scale={ 0.700000 0.700000 }
-				}
-
+				color1=yellow
+				color2=blue
+				texture="ce_pagan_saltire_cross_02.dds"
 			}
 
 		}
@@ -47,8 +30,8 @@ ruler={
 
 	portrait_override={
 		portrait_modifier_overrides={
-			custom_hair=female_hair_rtt_02
 			custom_beards=female_empty
+			custom_hair=female_hair_sogdian_01
 		}
 	}
 
@@ -154,7 +137,7 @@ ruler={
  			gene_height={ "normal_height" 226 "normal_height" 128 }
  			gene_bs_body_type={ "body_fat_head_fat_low" 129 "body_fat_head_fat_low" 129 }
  			gene_bs_body_shape={ "body_shape_rectangle_full" 0 "body_shape_rectangle_full" 0 }
- 			gene_bs_bust={ "bust_shape_1_half" 204 "bust_shape_1_full" 140 }
+ 			gene_bs_bust={ "bust_shape_1_half" 201 "bust_shape_1_full" 140 }
  			gene_age={ "old_4" 254 "old_4" 254 }
  			gene_eyebrows_shape={ "avg_spacing_avg_thickness" 246 "far_spacing_avg_thickness" 246 }
  			gene_eyebrows_fullness={ "layer_2_low_thickness" 160 "layer_2_low_thickness" 160 }
@@ -164,7 +147,7 @@ ruler={
  			gene_face_dacals={ "face_dacal_09" 28 "face_dacal_09" 28 }
  			eye_accessory={ "normal_eyes" 123 "normal_eyes" 123 }
  			teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
- 			eyelashes_accessory={ "dark_eyelashes" 8 "normal_eyelashes" 59 }
+ 			eyelashes_accessory={ "dark_eyelashes" 33 "normal_eyelashes" 59 }
  			gene_bs_butt_size={ "butt_size" 144 "butt_size" 105 }
  			skin_color_saturation={ "vanilla_skin_saturation" 0 "vanilla_skin_saturation" 0 }
  			eye_color_saturation={ "eye_color_saturation" 126 "eye_color_saturation" 126 }
@@ -191,35 +174,35 @@ ruler={
  			gene_eyebrow_inner_width={ "eyebrow_inner_width_max" 39 "eyebrow_inner_width_max" 39 }
  			gene_bs_eye_lower_lid_size={ "eye_lower_lid_size" 0 "eye_lower_lid_size" 0 }
  			gene_bs_eye_shape={ "eye_shape_01" 129 "eye_shape_01" 129 }
- 			gene_bs_hips={ "hips" 229 "hips" 15 }
+ 			gene_bs_hips={ "hips" 214 "hips" 15 }
  			gene_bs_waist={ "waist" 10 "waist" 109 }
  			gene_bs_shoulders={ "shoulders" 158 "shoulders" 76 }
  			skin_color_hue_mhec={ "vanilla_skin_color_hue_mhec" 127 "vanilla_skin_color_hue_mhec" 127 }
  			skin_color_saturation_mhec={ "skin_color_saturation_mhec" 0 "vanilla_skin_color_saturation_mhec" 127 }
  			skin_color_value_mhec={ "skin_color_value_mhec" 255 "vanilla_skin_color_value_mhec" 127 }
- 			eye_color_hue_mhec={ "eye_color_hue_mhec" 233 "vanilla_eye_color_hue_mhec" 127 }
- 			eye_color_saturation_mhec={ "eye_color_saturation_mhec" 204 "vanilla_eye_color_saturation_mhec" 127 }
- 			eye_color_value_mhec={ "eye_color_value_mhec" 128 "vanilla_eye_color_value_mhec" 127 }
+ 			eye_color_hue_mhec={ "eye_color_hue_mhec" 229 "vanilla_eye_color_hue_mhec" 127 }
+ 			eye_color_saturation_mhec={ "eye_color_saturation_mhec" 239 "vanilla_eye_color_saturation_mhec" 127 }
+ 			eye_color_value_mhec={ "eye_color_value_mhec" 117 "vanilla_eye_color_value_mhec" 127 }
  			hair_color_hue_mhec={ "hair_color_hue_mhec" 20 "vanilla_hair_color_hue_mhec" 127 }
- 			hair_color_saturation_mhec={ "hair_color_saturation_mhec" 133 "vanilla_hair_color_saturation_mhec" 127 }
+ 			hair_color_saturation_mhec={ "hair_color_saturation_mhec" 140 "vanilla_hair_color_saturation_mhec" 127 }
  			hair_color_value_mhec={ "hair_color_value_mhec" 1 "vanilla_hair_color_value_mhec" 127 }
- 			gene_bs_upper_body_muscle={ "upper_body_muscle" 117 "upper_body_muscle" 0 }
- 			gene_bs_lower_body_muscle={ "lower_body_muscle" 117 "lower_body_muscle" 0 }
- 			gene_muscle_definition={ "body_muscle_definition" 234 "body_muscle_definition" 0 }
+ 			gene_bs_upper_body_muscle={ "upper_body_muscle" 178 "upper_body_muscle" 0 }
+ 			gene_bs_lower_body_muscle={ "lower_body_muscle" 178 "lower_body_muscle" 0 }
+ 			gene_muscle_definition={ "body_muscle_definition" 255 "body_muscle_definition" 0 }
  			gene_bs_nipples={ "nipples" 178 "nipples" 129 }
  			gene_areolas={ "areolas_1" 0 "areolas_1" 0 }
- 			gene_bs_penis_size={ "penis_size" 106 "penis_size" 154 }
+ 			gene_bs_penis_size={ "penis_size" 97 "penis_size" 154 }
  			gene_bs_penis_thickness={ "penis_thickness" 205 "penis_thickness" 128 }
  			gene_bs_ball_size={ "ball_size" 47 "ball_size" 47 }
  			gene_bs_body_fat_distribution={ "body_mid" 108 "upper_body_high_full" 127 }
  			gene_beauty_details={ "beauty_details" 25 "beauty_details" 0 }
- 			hairstyles={ "rtt_hairstyles" 170 "all_hairstyles" 0 }
- 			beards={ "western_beards_straight" 255 "no_beard" 0 }
+ 			beards={ "no_beard" 255 "no_beard" 0 }
+ 			hairstyles={ "iranian_hairstyles_straight" 108 "all_hairstyles" 0 }
  }
 		override={
 			portrait_modifier_overrides={
-				custom_hair=female_hair_rtt_02
 				custom_beards=female_empty
+				custom_hair=female_hair_sogdian_01
 			}
 		}
 
