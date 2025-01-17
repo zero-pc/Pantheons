@@ -12,7 +12,7 @@ POG_pure_deity = {
 	prowess_no_portrait = 6
 	health = 10
 	immortal = yes
-	fertility = -1.1
+	fertility = -1.38
 	monthly_lifestyle_xp_gain_mult = 0.2
 	no_prowess_loss_from_age = yes
 
@@ -83,7 +83,7 @@ POG_fallen_deity = {
 	prowess_no_portrait = 6
 	health = 10
 	immortal = yes
-	fertility = -1.1
+	fertility = -1.38
 	monthly_lifestyle_xp_gain_mult = 0.2
 	no_prowess_loss_from_age = yes
 
@@ -294,7 +294,7 @@ POG_elder_pure_deity = {
 	prowess_no_portrait = 8
 	health = 10
 	immortal = yes
-	fertility = -1.1
+	fertility = -1.38
 	monthly_lifestyle_xp_gain_mult = 0.3
 	no_prowess_loss_from_age = yes
 
@@ -365,7 +365,7 @@ POG_elder_fallen_deity = {
 	prowess_no_portrait = 8
 	health = 10
 	immortal = yes
-	fertility = -1.1
+	fertility = -1.38
 	monthly_lifestyle_xp_gain_mult = 0.3
 	no_prowess_loss_from_age = yes
 
